@@ -52,7 +52,7 @@ La base de datos proporcionada incluye registros de ventas de SisconPC durante l
 1. Clona este repositorio:
 
    ```bash
-   git clone [https://github.com/usuario/proyecto_sisconpc.git](https://github.com/henry-vargas/Tesis-udla.git)
+   git clone https://github.com/henry-vargas/Tesis-udla.git
    ```
 
 2. Abre el archivo `TesisHV.ipynb` en Jupyter Notebook o Jupyter Lab y sigue la secuencia de celdas, que incluye desde la limpieza de datos hasta el análisis y modelado estadístico.
