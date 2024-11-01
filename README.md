@@ -52,8 +52,7 @@ La base de datos proporcionada incluye registros de ventas de SisconPC durante l
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/usuario/proyecto_sisconpc.git
-   cd proyecto_sisconpc
+   git clone [https://github.com/usuario/proyecto_sisconpc.git](https://github.com/henry-vargas/Tesis-udla.git)
    ```
 
 2. Abre el archivo `TesisHV.ipynb` en Jupyter Notebook o Jupyter Lab y sigue la secuencia de celdas, que incluye desde la limpieza de datos hasta el análisis y modelado estadístico.
@@ -75,7 +74,7 @@ El análisis arrojó resultados clave sobre los patrones de venta y la segmentac
 
 ## Contribuciones
 
-Este proyecto fue desarrollado como parte de la tesis de grado en la Universidad de las Américas. Agradecimientos al profesor Ing. Manuel Eugenio Morocho y al equipo de SisconPC por su apoyo en la provisión de datos.
+Este proyecto fue desarrollado por Henry Paúl Vargas Páez y Jaime Cristian Aucanshala Quito como parte de la tesis de grado en la Universidad de las Américas. Agradecimientos al profesor Ing. Manuel Eugenio Morocho y al equipo de SisconPC por su apoyo en la provisión de datos.
 
 ## Licencia
 
