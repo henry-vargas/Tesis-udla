@@ -2,7 +2,8 @@
 # **Módulo Proyecto MBD**
 ## Nombre de la Maestría: Maestría en Inteligencia de Negocios y Ciencia de Datos
 ## Universidad de las Américas
-## Nombre de los Integrantes: Paul Aucanshala y Omar Vásquez
+## Nombre de los Integrantes: Henry Paúl Vargas Páez y Jaime Cristian Aucanshala Quito
+
 
 # Análisis del Rendimiento de Ventas de SisconPC (2022-2023)
 
